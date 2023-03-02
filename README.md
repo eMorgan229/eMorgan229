@@ -3,7 +3,7 @@ Software Engineer | Ruby, Rails, Javascript, React | Actor, Dancer and Creative
 
 ### About Me
 #### Prounouns: she/they
-I'm a Full Stack Developer Student with a background in classical ballet and the performing arts. With years of experience as a dance instructor at the collegiate level and numerous professional performance credits, I bring a creative skill set to technical projects with a passion for teamwork and innovative thinking. I have the ability to demonstrate a strong work ethic, solid technical aptitude, excellent communication skills, leadership, attention to detail and experience working on a team.
+I'm a Full Stack Developer with a background in classical ballet and the performing arts. With years of experience as a dance instructor at the collegiate level and numerous professional performance credits, I bring a creative skill set to technical projects with a passion for teamwork and innovative thinking. I have the ability to demonstrate a strong work ethic, solid technical aptitude, excellent communication skills, leadership, attention to detail and experience working on a team.
 
 ### Currently work on...
 - Line-Right allows a user to stay in a virtual line, be in multiple lines at once, and provides an estimated wait time
